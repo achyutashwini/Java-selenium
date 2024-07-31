@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Learning Maven]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-27T11:35:12 IST" name="Default suite" finished-at="2024-07-27T11:35:12 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2024-07-27T11:35:12 IST" name="Default test" finished-at="2024-07-27T11:35:12 IST" duration-ms="98">
+      <class name="com.sampleTestScripts.testScriptTest1">
+        <test-method signature="executeScript()[pri:0, instance:com.sampleTestScripts.testScriptTest1@6fdbe764]" started-at="2024-07-27T11:35:12 IST" name="executeScript" finished-at="2024-07-27T11:35:12 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Learning Maven]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeScript -->
+      </class> <!-- com.sampleTestScripts.testScriptTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
